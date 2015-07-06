@@ -1,6 +1,7 @@
 __author__ = 'root'
 
-import Shape
+from oop import Shape
+
 
 def test_Shape():
     test_point = Shape.Point(100, 200)
