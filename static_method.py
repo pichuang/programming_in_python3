@@ -2,6 +2,7 @@ __author__ = 'root'
 
 """
 http://www.wklken.me/posts/2013/12/22/difference-between-staticmethod-and-classmethod-in-python.html
+http://wklken.me/posts/2012/10/27/python-base-decorator.html
 """
 
 class zoo():
