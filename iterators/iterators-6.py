@@ -26,6 +26,6 @@ class linehistory(object):
 with open('/etc/hosts') as file:
     lines = linehistory(file)
     for line in lines:
-        if 'g' in line:
+        if ' ' in line:
             for lineno, hline in lines.history:
                 print("{0} {1}".format(lineno, hline), end='')
