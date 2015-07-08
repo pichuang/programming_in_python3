@@ -2,6 +2,10 @@ __author__ = 'root'
 
 import cmd
 
+'''
+Cmdloop
+Reference: http://pymotw.com/2/cmd/
+'''
 
 class Helloworld(cmd.Cmd):
     prompt = "pichuang > "
