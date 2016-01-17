@@ -1,4 +1,11 @@
 #!/usr/bin/env python
+"""
+https://github.com/faif/python-patterns
+
+Implementation of the abstract factory pattern
+
+"""
+
 import random
 
 # pylint: disable=R0201
