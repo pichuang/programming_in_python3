@@ -6,8 +6,8 @@ Implementation of the abstract factory pattern
 
 """
 
-
 import random
+
 
 # pylint: disable=R0201
 class Cat(object):
